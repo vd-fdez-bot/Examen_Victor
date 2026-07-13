@@ -1,2 +1,5 @@
 # Examen_Victor
-Subo esto por el examen de programación, programa de catalogo de juegos para Gamehub
+Victor Fernandez
+Seccion 003D
+13/07/2026
+Examen de Programación
